@@ -8,7 +8,7 @@ from datetime import datetime
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
-            ._profileContainer_1yi6l_53 {display: none;}
+            stToolbarActionButtonIcon {display: none;}
             footer {visibility: hidden;}
             </style>
             """
